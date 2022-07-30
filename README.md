@@ -5,7 +5,7 @@
 I've collaborated with follow developers and I've also worked on numerous personal projects like;
 
 - Student management system ***using java, spring boot, thymeleaf template engine and bootstrap***
-- Airbnb site clone using ***ReactJs***
+- Airbnb site clone and a meme generator using ***ReactJs***
 - Tip calculator ***Javascript, HTML & CSS***
 - Rest APIs with ***Java and spring boot***
 - Spring security to secure different endpoints and also a complete back-end user login ***using Java and Spring boot***
