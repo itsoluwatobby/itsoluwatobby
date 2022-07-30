@@ -22,6 +22,6 @@ I've collaborated with follow developers and I've also worked on numerous person
  - Contact: +2348100281607
 
 ### ⚡ Fun fact: ...
-- I love watching movies in free time
+- I love watching movies in my free time
 - I like reading horror, adventure and romantic novels
 - I love interacting with friends and people in general
