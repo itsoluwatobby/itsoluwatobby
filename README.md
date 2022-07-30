@@ -1,19 +1,19 @@
 ### Hello 👋
 
-### My name is Oluwatobi Akinola Samuel, i'm from Nigeria and I'm currently based in Nigeria. I'm a software developer with over one year of programming experience. 
-I love to program in Java, Javascript, HTML, Css and also very familiar with relational database like SQL (using postgres) and non-relational database using MongoDB.
+### My name is Oluwatobi Akinola Samuel, I'm from Nigeria and I'm currently based in Nigeria. I'm a software developer with over one year of programming experience. 
+#### I love to program in Java, Javascript, HTML, Css and also very familiar with relational database like SQL (using postgres) and non-relational database using MongoDB.
 I've collaborated with follow developers and I've also worked on numerous personal projects like;
 
 - Student management system ***using java, spring boot, thymeleaf template engine and bootstrap***
 - Airbnb site clone using ***ReactJs***
 - Tip calculator ***Javascript, HTML & CSS***
-- Rest APIs with ***Java and spring boot
+- Rest APIs with ***Java and spring boot***
 - Spring security to secure different endpoints and also a complete back-end user login ***using Java and Spring boot***
 
-### 🔭 I’m currently working on a personal web project which includes the use of spring security to secure different endpoint and complete user login follow and response web pages
+### 🔭 I’m currently working on a personal web project which includes the use of spring security to secure different endpoints, a complete user login flow and responsive web pages
 ### 🌱 And while still on the look out for a new opportunity, I’m currently learning;
 - [x] ReactJs
-- [x] Improving my CSS skills
+- [x] And also improving my CSS skills
 
  ***📫 How to reach me: ...***
  - Email address: **akintobby@gmail.com**
