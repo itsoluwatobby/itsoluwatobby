@@ -16,8 +16,8 @@ I've collaborated with follow developers and I've also worked on numerous person
 - [x] And also improving my CSS skills
 
  ***📫 How to reach me: ...***
- - Email address: **akintobby@gmail.com**
- - Alternate email address: **oluwasamuel050@gmail.com**
+ - Email address: **oluwasamuel050@gmail.com**
+ - Alternate email address: **akintobby@gmail.com**
  - LinkedIn profile link: www.linkedin.com/in/oluwatobi-akinola-16827a1b3
  - Contact: +2348100281607
 
