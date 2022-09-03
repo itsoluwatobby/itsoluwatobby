@@ -19,8 +19,8 @@ I've collaborated with follow developers and I've also worked on numerous person
 - [x] ReactJs
 - [x] And also improving my CSS skills
 
-##Links to some of my projects.
-[Blog site](https://incandescent-tarsier-6f3ddb.netlify.app)
+## Links to some of my projects.
+- [Blog site](https://incandescent-tarsier-6f3ddb.netlify.app)
 
  ***📫 How to reach me: ...***
  - Email address: [oluwasamuel050@gmail.com](oluwasamuel050@gmail.com)
