@@ -4,7 +4,7 @@
 #### I love to program in Java, Node, Javascript, ReactJs, HTML, Css and also very familiar with relational database like SQL (using postgres) and non-relational database using MongoDB.
 I've collaborated with follow developers and I've also worked on numerous personal projects like;
 
-- [X] Portfolio: [My Portfolio Webpage](https://itsoluwatobby.github.io/Portfolio-website/#contact)
+[X] Portfolio: [My Portfolio Webpage](https://itsoluwatobby.github.io/Portfolio-website/#contact)
 
 - Creating a Blog site and also a todo list with reactJs, which allow users to create, delete, edit and update a post. 
 - Disney clone, tesla-website clone using reactjs.
