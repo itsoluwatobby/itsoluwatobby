@@ -9,22 +9,25 @@
 I've collaborated with follow developers and I've also worked on numerous personal projects like;
 
 - Creating a Blog site and also a todo list with reactJs, which allow users to create, delete, edit and update a post. 
-- Disney clone, tesla-website clone using reactjs.
+- social media website, tesla-website clone using reactjs.
 - Building REST APIs with node using express.
+- Resume builder app
 - Implementing JWT token to secure user access to their allocated resources
 - Student management system ***using java, spring boot, thymeleaf template engine and bootstrap***
 - Airbnb site clone and a meme generator using ***ReactJs***
 - Tip calculator ***Javascript, HTML & CSS***
-- Rest APIs with ***Java and spring boot***
+- Rest APIs with ***Node and express*** ***Java and spring boot***
 - Spring security to secure different endpoints and also a complete back-end user login ***using Java and Spring boot***
 
-### 🔭 I’m currently working on a personal web project which includes the use of spring security to secure different endpoints, a complete user login flow and responsive web pages
+### 🔭 I’m currently working on a personal web project called the twitter-clone
+
 ### 🌱 And while still on the look out for a new opportunity, I’m currently learning;
-- [x] ReactJs
-- [x] And also improving my CSS skills
+- [x] Typescript
+- [x] And also progressing into the blockchain world
 
 ## Links to some of my projects.
-- [Blog site](https://incandescent-tarsier-6f3ddb.netlify.app)
+- [Blog site](https://blog-app-ipou.onrender.com/)
+- [Resume Builder App](https://resume-builder-u0ip.onrender.com)
 
  ***📫 How to reach me: ...***
  - Email address: [oluwasamuel050@gmail.com](oluwasamuel050@gmail.com)
