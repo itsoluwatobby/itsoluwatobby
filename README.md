@@ -21,7 +21,7 @@ I've collaborated with follow developers and I've also worked on numerous person
 - Rest APIs with ***Node and express*** ***Java and spring boot***
 - Spring security to secure different endpoints and also a complete back-end user login ***using Java and Spring boot***
 ***
-### 🔭 I’m currently working on a personal web project called the twitter-clone
+### 🔭 I’m currently working on a personal web project called the twitter-webpage-clone
 
 > Here is a link to the project code
 
@@ -40,8 +40,9 @@ I've collaborated with follow developers and I've also worked on numerous person
 - [Blog site](https://blog-app-ipou.onrender.com/)
 - [Resume Builder App](https://resume-builder-u0ip.onrender.com)
 
- ***📫 How to reach me: ...***
- - Email address: [oluwasamuel050@gmail.com](oluwasamuel050@gmail.com)
+---
+ ## _📫 How to reach me: ..._
+ - Email address: [oluwasamuel050@gmail.com](mailto:oluwasamuel050@gmail.com)
  - Alternate email address: [itsoluwatobby@gmail.com](mailto:itsoluwatobby@gmail.com)
  - LinkedIn profile link: [www.linkedin.com/in/oluwatobi-akinola-16827a1b3](www.linkedin.com/in/oluwatobi-akinola-16827a1b3)
  - Contact: +2348100281607
