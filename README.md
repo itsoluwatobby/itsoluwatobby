@@ -1,7 +1,7 @@
-## Hello 👋
+# Hello 👋
 
 ### My name is Oluwatobi Akinola Samuel, I'm from Nigeria and presently based in Nigeria. I'm a software developer with over one year of programming experience. 
-#### I love to code in Java, Node, Javascript, ReactJs. I am also equipped with some frontend tools like HTML, Css and also very familiar with relational database like SQL (using postgres) and non-relational database using MongoDB.
+##### I love to code in Java, Node, Javascript, ReactJs. I am also equipped with some frontend tools like HTML, Css and also very familiar with relational database like SQL (using postgres) and non-relational database using MongoDB.
 
 <!--[X] My Portfolio: [Tap to Check Portfolio Webpage](https://itsoluwatobby.github.io/Portfolio-website/#contact "my portfolio")-->
 ---
@@ -42,7 +42,7 @@ I've collaborated with follow developers and I've also worked on numerous person
 
  ***📫 How to reach me: ...***
  - Email address: [oluwasamuel050@gmail.com](oluwasamuel050@gmail.com)
- - Alternate email address: [akintobby@gmail.com](akintobby@gmail.com)
+ - Alternate email address: [itsoluwatobby@gmail.com](mailto:itsoluwatobby@gmail.com)
  - LinkedIn profile link: [www.linkedin.com/in/oluwatobi-akinola-16827a1b3](www.linkedin.com/in/oluwatobi-akinola-16827a1b3)
  - Contact: +2348100281607
 ---
