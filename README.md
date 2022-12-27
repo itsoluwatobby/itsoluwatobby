@@ -6,7 +6,7 @@
 <!--[X] My Portfolio: [Tap to Check Portfolio Webpage](https://itsoluwatobby.github.io/Portfolio-website/#contact "my portfolio")-->
 ---
 
-I've collaborated with follow developers and I've also worked on numerous personal projects like;
+> I've collaborated with follow developers and I've also worked on numerous personal projects like;
 
 - Song reaction website where users can make a song request for music content creators to react to
 - Whatsapp desktop chat application clone 
