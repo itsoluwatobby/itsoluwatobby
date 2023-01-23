@@ -25,15 +25,15 @@
 1. twitter-webpage-clone
 2. Whatsapp desktop chat application clone 
 
-> Here is a link to the project code
+> Links to the project source code
 
-**WHATSAPP_FRONTEND :_** [code_link](https://github.com/itsoluwatobby/Chat-Application)
+**WHATSAPP_FRONTEND :_** [whatsapp_frontend](https://github.com/itsoluwatobby/Chat-Application)
 
-**WHATSAPP_BACKEND :_** [code_link](https://github.com/itsoluwatobby/Chat-Application-Backend)
+**WHATSAPP_BACKEND :_** [whatsapp_backend](https://github.com/itsoluwatobby/Chat-Application-Backend)
 
-**TWITTER_FRONTEND :_** [code_link](https://github.com/itsoluwatobby/twitter-frontend-clone)
+**TWITTER_FRONTEND :_** [twitter_frontend](https://github.com/itsoluwatobby/twitter-frontend-clone)
 
-**TWITTER_BACKEND :_** [code_link](https://github.com/itsoluwatobby/twitter-backend-clone)
+**TWITTER_BACKEND :_** [twitter_backend](https://github.com/itsoluwatobby/twitter-backend-clone)
 
 ---
 ### 🌱 And while still on the look out for a new opportunity, I’m currently learning;
@@ -41,21 +41,14 @@
 - [x] And also progressing into the blockchain world
 ***
 
-<!---
-> *Tech Stack/Framework*
-
-| a| b| c| d|
-
- |:----------|:-----------|:------------|:-------------|
+## Tech Stack/Framework
 
  | JavaScript | Node.js | Express.js | React.js |
+ | ----------- | ----------- | ------------ | ------------- | 
+ | **Typescript** | **HTML & CSS** | **MongoDB** | **Postgresql** |
+ | **Redis** | **RegEx** | **Next.js** |
 
- | Typescript | HTML & CSS | MongoDB | Postgresql |
-
- | Redis | RegEx | Next.js |
---->
-
-## Links to some of my projects.
+## Links to some of my completed projects.
 - [Song reaction website](https://graciereacts.onrender.com)
 - [Blog site](https://blog-app-ipou.onrender.com/)
 - [Resume Builder App](https://resume-builder-u0ip.onrender.com)
