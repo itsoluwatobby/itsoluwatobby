@@ -21,29 +21,39 @@
 - Rest APIs with ***Node and express*** ***Java and spring boot***
 - Spring security to secure different endpoints and also a complete back-end user login ***using Java and Spring boot***
 ***
-### 🔭 I’m currently working on a personal web project called the twitter-webpage-clone
+### 🔭 I’m currently working on two personal web projects called the: 
+1. twitter-webpage-clone
+2. Whatsapp desktop chat application clone 
 
 > Here is a link to the project code
 
-**_FRONTEND :_** [Frontend code](https://github.com/itsoluwatobby/twitter-frontend-clone)
+**WHATSAPP_FRONTEND :_** [Frontend code](https://github.com/itsoluwatobby/twitter-frontend-clone)
 
-**_BACKEND :_** [Backend code](https://github.com/itsoluwatobby/twitter-backend-clone)
+**WHATSAPP_BACKEND :_** [Backend code](https://github.com/itsoluwatobby/twitter-backend-clone)
+
+**TWITTER_FRONTEND :_** [Frontend code](https://github.com/itsoluwatobby/twitter-frontend-clone)
+
+**TWITTER_BACKEND :_** [Backend code](https://github.com/itsoluwatobby/twitter-backend-clone)
 
 ---
 ### 🌱 And while still on the look out for a new opportunity, I’m currently learning;
-- [x] Typescript
+- [x] Next.js
 - [x] And also progressing into the blockchain world
 ***
 
+<!---
 > *Tech Stack/Framework*
 
- | ___ | ___ | ___ | ___ |
+| a| b| c| d|
+
+ |:----------|:-----------|:------------|:-------------|
 
  | JavaScript | Node.js | Express.js | React.js |
 
  | Typescript | HTML & CSS | MongoDB | Postgresql |
 
  | Redis | RegEx | Next.js |
+--->
 
 ## Links to some of my projects.
 - [Song reaction website](https://graciereacts.onrender.com)
