@@ -35,6 +35,16 @@
 - [x] And also progressing into the blockchain world
 ***
 
+> *Tech Stack/Framework*
+
+ | ___ | ___ | ___ | ___ |
+
+ | JavaScript | Node.js | Express.js | React.js |
+
+ | Typescript | HTML & CSS | MongoDB | Postgresql |
+
+ | Redis | RegEx | Next.js |
+
 ## Links to some of my projects.
 - [Song reaction website](https://graciereacts.onrender.com)
 - [Blog site](https://blog-app-ipou.onrender.com/)
