@@ -27,13 +27,13 @@
 
 > Here is a link to the project code
 
-**WHATSAPP_FRONTEND :_** [Frontend code](https://github.com/itsoluwatobby/twitter-frontend-clone)
+**WHATSAPP_FRONTEND :_** [code_link](https://github.com/itsoluwatobby/Chat-Application)
 
-**WHATSAPP_BACKEND :_** [Backend code](https://github.com/itsoluwatobby/twitter-backend-clone)
+**WHATSAPP_BACKEND :_** [code_link](https://github.com/itsoluwatobby/Chat-Application-Backend)
 
-**TWITTER_FRONTEND :_** [Frontend code](https://github.com/itsoluwatobby/twitter-frontend-clone)
+**TWITTER_FRONTEND :_** [code_link](https://github.com/itsoluwatobby/twitter-frontend-clone)
 
-**TWITTER_BACKEND :_** [Backend code](https://github.com/itsoluwatobby/twitter-backend-clone)
+**TWITTER_BACKEND :_** [code_link](https://github.com/itsoluwatobby/twitter-backend-clone)
 
 ---
 ### 🌱 And while still on the look out for a new opportunity, I’m currently learning;
