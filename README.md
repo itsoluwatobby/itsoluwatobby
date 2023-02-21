@@ -16,8 +16,10 @@
 - Resume builder app
 - Implementing JWT token to secure user access to their allocated resources
 - Student management system ***using java, spring boot, thymeleaf template engine and bootstrap***
+<!--
 - Airbnb site clone and a meme generator using ***ReactJs***
 - Tip calculator ***Javascript, HTML & CSS***
+-->
 - Rest APIs with ***Node and express*** ***Java and spring boot***
 - Spring security to secure different endpoints and also a complete back-end user login ***using Java and Spring boot***
 ***
