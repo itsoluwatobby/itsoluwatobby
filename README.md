@@ -47,8 +47,8 @@
  | JavaScript | Node.js | Express.js | React.js |
  | ----------- | ----------- | ------------ | ------------- | 
  | **Typescript** | **HTML & CSS** | **MongoDB** | **Postgresql** |
- | **Redis** | **RegEx** | **Next.js** | **C** |
- | **Shell scripting**|
+ | **Tailwind CSS** | **RegEx** | **Next.js** | **C** |
+ | **Shell scripting**| **Redis** |
 
 ## Links to some of my completed projects.
 - [Whatsapp Desktop Clone](https://whatsapp-desktop-clone.onrender.com)
