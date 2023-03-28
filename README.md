@@ -48,6 +48,7 @@
  | ----------- | ----------- | ------------ | ------------- | 
  | **Typescript** | **HTML & CSS** | **MongoDB** | **Postgresql** |
  | **Redis** | **RegEx** | **Next.js** | **C** |
+ | **Shell scripting**|
 
 ## Links to some of my completed projects.
 - [Whatsapp Desktop Clone](https://whatsapp-desktop-clone.onrender.com)
