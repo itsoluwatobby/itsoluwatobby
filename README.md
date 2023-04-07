@@ -12,7 +12,6 @@
 - Whatsapp desktop chat application clone 
 - Creating a Blog site and also a todo list with reactJs, which allow users to create, delete, edit and update a post. 
 - social media website, tesla-website clone using reactjs.
-- Building REST APIs with node using express.
 - Implementing JWT token to secure user access to their allocated resources
 - Student management system ***using java, spring boot, thymeleaf template engine and bootstrap***
 <!--
