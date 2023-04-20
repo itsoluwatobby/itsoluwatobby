@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello :wave:
 
 ### My name is Oluwatobi Akinola Samuel, I'm from Nigeria and presently based in Nigeria. I'm a software developer with over two years of programming experience. 
 ##### I love to code in Java, Node, Javascript, ReactJs. I am also equipped with some frontend tools like HTML, Css and also very familiar with relational database like SQL (using postgres) and non-relational database using MongoDB.
@@ -48,6 +48,8 @@
  | **Tailwind CSS** | **RegEx** | **Next.js** | **C** |
  | **Shell scripting**| **Redis** |
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsoluwatobby&theme=dark&background=363636)](https://github.com/anuraghazra/github-readme-stats)
+___
 ## Links to some of my completed projects.
 - [Whatsapp Desktop Clone](https://whatsapp-desktop-clone.onrender.com)
 - [Song reaction website](https://graciereacts.onrender.com)
@@ -56,7 +58,7 @@
 ___
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsoluwatobby&theme=dark&background=000000)
----
+___
  ## _📫 How to reach me: ..._
  - Email address: [oluwasamuel050@gmail.com](mailto:oluwasamuel050@gmail.com)
  - Alternate email address: [itsoluwatobby@gmail.com](mailto:itsoluwatobby@gmail.com)
