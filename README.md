@@ -53,7 +53,9 @@
 - [Song reaction website](https://graciereacts.onrender.com)
 - [Blog site](https://blog-app-ipou.onrender.com/)
 - [Resume Builder App](https://resume-builder-u0ip.onrender.com)
-
+___
+### :fire: My Stats :
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsoluwatobby&theme=dark&background=000000)
 ---
  ## _📫 How to reach me: ..._
  - Email address: [oluwasamuel050@gmail.com](mailto:oluwasamuel050@gmail.com)
