@@ -47,8 +47,8 @@
  | **Typescript** | **HTML & CSS** | **MongoDB** | **Postgresql** |
  | **Tailwind CSS** | **RegEx** | **Next.js** | **C** |
  | **Shell scripting**| **Redis** |
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsoluwatobby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/ -->
+[![Top Langs](https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/api/top-langs/?username=itsoluwatobby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsoluwatobby&theme=dark&background=363636)](https://github.com/anuraghazra/github-readme-stats)-->
 ___
 ## Links to some of my completed projects.
