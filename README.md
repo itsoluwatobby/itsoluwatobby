@@ -8,13 +8,13 @@
 
 > I've collaborated with follow developers and I've also worked on numerous personal projects like;
 
-- Song reaction website where users can make a song request for music content creators to react to
+<!-- Song reaction website where users can make a song request for music content creators to react to
 - Whatsapp desktop chat application clone 
 - Creating a Blog site and also a todo list with reactJs, which allow users to create, delete, edit and update a post. 
 - social media website, tesla-website clone using reactjs.
 - Implementing JWT token to secure user access to their allocated resources
 - Student management system ***using java, spring boot, thymeleaf template engine and bootstrap***
-<!--
+
 - Airbnb site clone and a meme generator using ***ReactJs***
 - Tip calculator ***Javascript, HTML & CSS***
 -->
