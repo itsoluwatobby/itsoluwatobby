@@ -3,12 +3,12 @@
 ### My name is Oluwatobi Akinola Samuel, I'm from Nigeria and presently based in Nigeria. I'm a software developer with over two years of programming experience. 
 ##### I love to code in Java, Node, Javascript, ReactJs. I am also equipped with some frontend tools like HTML, Css and also very familiar with relational database like SQL (using postgres) and non-relational database using MongoDB.
 
-<!--[X] My Portfolio: [Tap to Check Portfolio Webpage](https://itsoluwatobby.github.io/Portfolio-website/#contact "my portfolio")-->
+<!--[X] My Portfolio: [Tap to Check Portfolio Webpage](https://itsoluwatobby.github.io/Portfolio-website/#contact "my portfolio")
 ---
 
 > I've collaborated with follow developers and I've also worked on numerous personal projects like;
 
-<!-- Song reaction website where users can make a song request for music content creators to react to
+Song reaction website where users can make a song request for music content creators to react to
 - Whatsapp desktop chat application clone 
 - Creating a Blog site and also a todo list with reactJs, which allow users to create, delete, edit and update a post. 
 - social media website, tesla-website clone using reactjs.
@@ -17,10 +17,10 @@
 
 - Airbnb site clone and a meme generator using ***ReactJs***
 - Tip calculator ***Javascript, HTML & CSS***
--->
+
 - Rest APIs with ***Node and express*** ***Java and spring boot***
 - Spring security to secure different endpoints and also a complete back-end user login ***using Java and Spring boot***
-***
+***-->
 ### 🔭 I’m currently working on a personal web project called the: 
 1. twitter-webpage-clone 
 
