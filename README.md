@@ -39,14 +39,13 @@ Song reaction website where users can make a song request for music content crea
 - [x] Next.js
 - [x] And also progressing into the blockchain world
 ***
-
+<!-- **Next.js** -->
 ## Tech Stack/Framework
 
- | JavaScript | Node.js | Express.js | React.js |
+ | HTML & CSS | Node.js | Express.js | React.js |
  | ----------- | ----------- | ------------ | ------------- | 
- | **Typescript** | **HTML & CSS** | **MongoDB** | **Postgresql** |
- | **Tailwind CSS** | **RegEx** | **Next.js** | **C** |
- | **Shell scripting**| **Redis** |
+ | **Typescript** | **MongoDB** | **Postgresql** | **Tailwind CSS** |
+ | **Shell scripting** | **RegEx** | **C** | **Redis** |
 <!-- https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/ -->
 [![Top Langs](https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/api/top-langs/?username=itsoluwatobby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsoluwatobby&theme=dark&background=363636)](https://github.com/anuraghazra/github-readme-stats)-->
