@@ -1,7 +1,7 @@
 # Hello :wave:
 
 ### I'm Oluwatobi Akinola Samuel from Nigeria.
-##### I love to code in Java, Node, Javascript, ReactJs. I am also equipped with some frontend tools like HTML, Css and also very familiar with relational database like SQL (using postgres) and non-relational database using MongoDB.
+##### I love to code in Node, ReactJs, C and also very familiar with relational database like Postgresql and non-relational database using MongoDB.
 
 <!--[X] My Portfolio: [Tap to Check Portfolio Webpage](https://itsoluwatobby.github.io/Portfolio-website/#contact "my portfolio")
 ---
