@@ -67,5 +67,5 @@ ___
 ---
 ### ⚡ Fun fact: ...
 - I love watching movies in my free time
+- Bash scripting 
 - I like reading horror, adventure and romantic novels
-- I love interacting with friends and people in general
