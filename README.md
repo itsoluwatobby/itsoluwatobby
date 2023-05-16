@@ -4,7 +4,7 @@
 ##### I love to code in Node, ReactJs, C and also very familiar with relational database like Postgresql and non-relational database using MongoDB.
 
 ### 🔭 I’m currently working on a personal web project called the: 
-1. twitter-webpage-clone       _**on hold**_
+1. twitter-webpage-clone   _**on hold**_
 
 > Links to the project source code
 
@@ -40,8 +40,9 @@ ___
  ## _📫 How to reach me: ..._
  - Email address: [oluwasamuel050@gmail.com](mailto:oluwasamuel050@gmail.com)
  - Alternate email address: [itsoluwatobby@gmail.com](mailto:itsoluwatobby@gmail.com)
- - LinkedIn profile link: [www.linkedin.com/in/oluwatobi-akinola-16827a1b3](www.linkedin.com/in/oluwatobi-akinola-16827a1b3)
- - Contact: +2348100281607
+ - Twitter address: [twitter.com/itsoluwatobby](https://twitter.com/itsoluwatobby)
+ - LinkedIn profile link: [www.linkedin.com/in/itsoluwatobby](https://linkedin.com/in/itsoluwatobby)
+ - Whatsapp contact: +2348100281607
 ---
 ### ⚡ Fun fact: ...
 - I love watching movies in my free time
