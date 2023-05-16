@@ -22,13 +22,9 @@ Song reaction website where users can make a song request for music content crea
 - Spring security to secure different endpoints and also a complete back-end user login ***using Java and Spring boot***
 ***-->
 ### 🔭 I’m currently working on a personal web project called the: 
-1. twitter-webpage-clone 
+1. twitter-webpage-clone _on hold_
 
 > Links to the project source code
-
-<!--**WHATSAPP_FRONTEND :_** [whatsapp_frontend](https://github.com/itsoluwatobby/Chat-Application)
-
-**WHATSAPP_BACKEND :_** [whatsapp_backend](https://github.com/itsoluwatobby/Chat-Application-Backend)-->
 
 **TWITTER_FRONTEND :_** [twitter_frontend](https://github.com/itsoluwatobby/twitter-frontend-clone)
 
