@@ -7,10 +7,10 @@
 1. twitter-webpage-clone   _**on hold**_
 
 > Links to the project source code
-
+<!--
 **TWITTER_FRONTEND :_** [twitter_frontend](https://github.com/itsoluwatobby/twitter-frontend-clone)
 
-**TWITTER_BACKEND :_** [twitter_backend](https://github.com/itsoluwatobby/twitter-backend-clone)
+**TWITTER_BACKEND :_** [twitter_backend](https://github.com/itsoluwatobby/twitter-backend-clone)-->
 
 ---
 ### 🌱 And while still on the look out for a new opportunity, I’m currently learning;
