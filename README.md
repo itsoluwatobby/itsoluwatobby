@@ -1,6 +1,6 @@
 # Hello :wave:
 
-### I'm Oluwatobi Akinola Samuel from Nigeria.
+### I'm Oluwatobi Akinola Samuel.
 ##### I love to code in Node, ReactJs, C and also very familiar with relational database like Postgresql and non-relational database using MongoDB.
 
 ### 🔭 I’m currently working on a personal web project called the: 
