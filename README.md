@@ -22,8 +22,8 @@
 
  | HTML & CSS | Node.js | Express.js | React.js |
  | ----------- | ----------- | ------------ | ------------- | 
- | **Typescript** | **MongoDB** | **Postgresql** | **Tailwind CSS** |
- | **Shell scripting** | **RegEx** | **C** | **Redis** |
+ | **Typescript** | **MongoDB** | **RegEx** | **Tailwind CSS** |
+ | **Shell scripting** | **C** | **Redis** |
 <!-- https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/ -->
 [![Top Langs](https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/api/top-langs/?username=itsoluwatobby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsoluwatobby&theme=dark&background=363636)](https://github.com/anuraghazra/github-readme-stats)-->
