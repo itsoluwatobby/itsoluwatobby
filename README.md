@@ -3,14 +3,12 @@
 ### I'm Oluwatobi Akinola Samuel.
 ##### I love to code in Node, ReactJs, C and also very familiar with relational database like Postgresql and non-relational database using MongoDB.
 
-### 🔭 I’m currently working on a personal web project called the: 
-1. twitter-webpage-clone   _**on hold**_
+### 🔭 I’m presently working on a full stack web application called: 
+> 1. Revolving  _It's all about the utilities, a web app powerpacked with all you'll ever need_
 
 > Links to the project source code
-<!--
-**TWITTER_FRONTEND :_** [twitter_frontend](https://github.com/itsoluwatobby/twitter-frontend-clone)
 
-**TWITTER_BACKEND :_** [twitter_backend](https://github.com/itsoluwatobby/twitter-backend-clone)-->
+**REVOLVING :_** [revolving](https://github.com/itsoluwatobby/revolving)
 
 ---
 ### 🌱 And while still on the look out for a new opportunity, I’m currently learning;
