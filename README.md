@@ -11,17 +11,16 @@
 **REVOLVING :**   [revolving](https://github.com/itsoluwatobby/revolving)
 
 ---
-### 🌱 And while still on the look out for a new opportunity, I’m currently learning;
-- [x] Next.js
+### 🌱 And while still on the look out for a new opportunity, I’m currently learning.
 - [x] And also progressing into the blockchain world
 ***
 
 ## Tech Stack/Framework
 
- | HTML & CSS | Node.js | Express.js | React.js |
+ | Next.js | Node.js | Express.js | React.js |
  | ----------- | ----------- | ------------ | ------------- | 
  | **Typescript** | **MongoDB** | **RegEx** | **Tailwind CSS** |
- | **Shell scripting** | **C** | **Redis** |
+ | **Shell scripting** | **C** | **Redis** | **Postgresql** |
 <!-- https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/ -->
 [![Top Langs](https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/api/top-langs/?username=itsoluwatobby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsoluwatobby&theme=dark&background=363636)](https://github.com/anuraghazra/github-readme-stats)-->
