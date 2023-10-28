@@ -3,16 +3,17 @@
 ### I'm Oluwatobi Akinola Samuel.
 ##### I love to code in Node, ReactJs, C and also very familiar with relational database like Postgresql and non-relational database using MongoDB.
 
-### 🔭 I’m presently working on a full stack web application called: 
+<!-- ### 🔭 I’m presently working on a full stack web application called: 
 1. Revolving  _It's all about the utilities, a web app powerpacked with all you'll ever need_
 
 > Links to the project source code
 
-**REVOLVING :**   [revolving](https://github.com/itsoluwatobby/revolving)
+**REVOLVING :**   [revolving](https://github.com/itsoluwatobby/revolving) -->
+### Current learning Python with flask
 
 ---
-### 🌱 And while still on the look out for a new opportunity, I’m currently learning.
-- [x] And also progressing into the blockchain world
+### 🌱 And while still on the look out for a job opportunity, I’m currently learning.
+- [x] enrolled in a bootcamp (ALX Africa), to fully ground my foundation in software development 
 ***
 
 ## Tech Stack/Framework
