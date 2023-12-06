@@ -30,7 +30,7 @@ ___
 - [Revolving.com](https://revolving.vercel.app/)
 - [GetLinked.com](https://getlinked-contest-oluwatobi.vercel.app/)
 - [Whatsapp Desktop Clone](https://whatsapp-desktop-clone.onrender.com)
-- [E-Commerce App](https://ecommerce-app-gamma-navy.vercel.app/)
+<!-- [E-Commerce App](https://ecommerce-app-gamma-navy.vercel.app/)-->
 - [Simmi Foundation Clone](https://simmi-foundation.onrender.com/)
 - [Song reaction website](https://graciereacts.onrender.com)
 <!-- [Blog site](https://blog-app-ipou.onrender.com/)
