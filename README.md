@@ -21,7 +21,8 @@
  | Next.js | Node.js | Express.js | React.js |
  | ----------- | ----------- | ------------ | ------------- | 
  | **Typescript** | **MongoDB** | **Tailwind CSS** | **C** |
- | **Bash scripting** | **Redis** | **Postgresql** |
+ | **Bash scripting** | **Redis** | **Postgresql** | **Python** |
+ | **Flask** | **web socket** | **Docker** | **Nginx** |
 <!-- https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/ -->
 [![Top Langs](https://github-readme-stats-itsoluwatobby-gmailcom.vercel.app/api/top-langs/?username=itsoluwatobby&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsoluwatobby&theme=dark&background=363636)](https://github.com/anuraghazra/github-readme-stats)-->
