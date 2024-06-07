@@ -10,7 +10,7 @@ In this same space, I've also worked as a fullstack developer, where I was charg
 
 ____
 
-Summary of responsibities:
+Summary of responsibilities:
 * Developed user-friendly interfaces using React, Nextjs and also improved client side application performance;
      * by optimizing static images
      * employed the use of Open graphs (to enhance SEO).
