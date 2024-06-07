@@ -1,19 +1,22 @@
-# Hello :wave:
+# Hello World :wave:
 
 ### I'm Oluwatobi Akinola Samuel.
-##### I love to code in Node, ReactJs, C and also very familiar with relational database like Postgresql and non-relational database using MongoDB.
+A MERN stack developer who has also gained extensive knowledge and skills in other programming languages and frameworks, including, Nextj.s, C, Python, flask and bash scripting.
+Over the years, 
+> I have worked as a frontend developer where I was charged with developing and maintaining application security using react and Nextjs, development of friendly user interfaces, building robust and scalable web applications and also integration of web applications with external libraries and APIs.
 
-<!-- ### 🔭 I’m presently working on a full stack web application called: 
-1. Revolving  _It's all about the utilities, a web app powerpacked with all you'll ever need_
+> I've also worked as a backend developer, where I interacted with the database (MongoDB) and also charged with developing server side application logics, and securing API endpoints.
+In this same space, I've also worked as a fullstack developer, where I was charged with various responsibilities which spanned across frontend and backend development.
 
-> Links to the project source code
+____
 
-**REVOLVING :**   [revolving](https://github.com/itsoluwatobby/revolving) -->
-### Current learning Python with flask
+Summary of responsibities:
+* I developed frontend (Nextjs, Reactjs) and backend (Node with express js) application logic,
+* integration of server-side application with third-party services including AWS.
+* Worked with Aws lambda and simple queue service (SQS).
+* Charged with server side deployment, using CI - CD method with Bitbucket and Aws ECS , ECR.
 
----
-### 🌱 And while still on the look out for a job opportunity, I’m currently learning.
-- [x] enrolled in a bootcamp (ALX Africa), to fully ground my foundation in software development 
+<!--- [x] ALX Africa --> 
 ***
 
 ## Tech Stack/Framework
