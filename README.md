@@ -1,7 +1,7 @@
 # Hello World :wave:
 
 ### I'm Oluwatobi Akinola Samuel.
-A MERN stack developer who has also gained extensive knowledge and skills in other programming languages and frameworks, including, Nextj.s, C, Python, flask and bash scripting.
+A software developer who has gained extensive knowledge and skills in programming languages and frameworks, like javascript, typescript, Reactjs, Nextj.s, C, Python, flask and bash scripting.
 Over the years, 
 > I have worked as a frontend developer where I was charged with developing and maintaining application security using react and Nextjs, development of friendly user interfaces, building robust and scalable web applications and also integration of web applications with external libraries and APIs.
 
