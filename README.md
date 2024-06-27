@@ -59,7 +59,7 @@ ___
  - Alternate email address: [itsoluwatobby@gmail.com](mailto:itsoluwatobby@gmail.com)
  - Twitter address: [twitter.com/itsoluwatobby](https://twitter.com/itsoluwatobby)
  - LinkedIn profile link: [www.linkedin.com/in/itsoluwatobby](https://linkedin.com/in/itsoluwatobby)
- - Whatsapp contact: +2348100281607
+ <!-- Whatsapp contact: +2348100281607 -->
 ---
 ### ⚡ Fun fact: ...
 - I love watching movies in my free time
