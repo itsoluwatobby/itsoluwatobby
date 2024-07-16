@@ -1,5 +1,7 @@
 # Hello World :wave:
 
+<a href="https://gitroll.io/profile/u7PjiY0mmWcdZKujBPYEumT5EoNQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7PjiY0mmWcdZKujBPYEumT5EoNQ2" alt="GitRoll Profile Badge"/></a>
+
 ### I'm Oluwatobi Akinola Samuel.
 A software developer who has gained extensive knowledge and skills in programming languages and frameworks, like javascript, typescript, Reactjs, Nextj.s, C, Python, flask and bash scripting.
 Over the years, 
