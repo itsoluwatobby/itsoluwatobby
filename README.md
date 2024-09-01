@@ -2,7 +2,7 @@
 
 <a href="https://gitroll.io/profile/u7PjiY0mmWcdZKujBPYEumT5EoNQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7PjiY0mmWcdZKujBPYEumT5EoNQ2" alt="GitRoll Profile Badge"/></a>
 
-### I'm Oluwatobi Akinola, a seasoned software developer with a strong foundation in frontend (React, Next.js) and backend (Node.js, MongoDB, PostgreSQL) technologies. Experienced in full-stack development, DevOps practices (AWS, GCP, CI/CD), and API integration. Skilled in JavaScript, TypeScript, and Python. Committed to delivering high-quality solutions and working collaboratively in diverse teams.
+I'm Oluwatobi Akinola, a seasoned software developer with a strong foundation in frontend (React, Next.js) and backend (Node.js, MongoDB, PostgreSQL) technologies. Experienced in full-stack development, DevOps practices (AWS, GCP, CI/CD), and API integration. Skilled in JavaScript, TypeScript, and Python. Committed to delivering high-quality solutions and working collaboratively in diverse teams.
 ____
 
 Summary of responsibilities:
