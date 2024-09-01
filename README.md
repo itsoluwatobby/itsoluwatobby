@@ -2,14 +2,7 @@
 
 <a href="https://gitroll.io/profile/u7PjiY0mmWcdZKujBPYEumT5EoNQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7PjiY0mmWcdZKujBPYEumT5EoNQ2" alt="GitRoll Profile Badge"/></a>
 
-### I'm Oluwatobi Akinola Samuel.
-A software developer who has gained extensive knowledge and skills in programming languages and frameworks, like javascript, typescript, Reactjs, Nextj.s, C, Python, flask and bash scripting.
-Over the years, 
-> I have worked as a frontend developer where I was charged with developing and maintaining application security using react and Nextjs, development of friendly user interfaces, building robust and scalable web applications and also integration of web applications with external libraries and APIs.
-
-> I've also worked as a backend developer, where I interacted with databases (MongoDB) and developed server side application logics and securing API endpoints.
-In this same space, I've also worked as a fullstack developer, where I was charged with various responsibilities which spanned across frontend and backend development.
-
+### I'm Oluwatobi Akinola, a seasoned software developer with a strong foundation in frontend (React, Next.js) and backend (Node.js, MongoDB, PostgreSQL) technologies. Experienced in full-stack development, DevOps practices (AWS, GCP, CI/CD), and API integration. Skilled in JavaScript, TypeScript, and Python. Committed to delivering high-quality solutions and working collaboratively in diverse teams.
 ____
 
 Summary of responsibilities:
