@@ -39,12 +39,13 @@ maintenance and security of the application server.
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsoluwatobby&theme=dark&background=363636)](https://github.com/anuraghazra/github-readme-stats)-->
 ___
 ## Links to some of my completed projects.
+- [lovely-audios.com](https://lovely-audio.onrender.com/)
 - [Revolving.com](https://revolving.vercel.app/)
 - [GetLinked.com](https://getlinked-contest-oluwatobi.vercel.app/)
 - [Whatsapp Desktop Clone](https://whatsapp-desktop-clone.onrender.com)
 - [Contact directory](https://contact-directory-green.vercel.app/)
-- [Simmi Foundation Clone](https://simmi-foundation.onrender.com/)
-- [Song reaction website](https://graciereacts.onrender.com)
+- [Blaze Estate](https://blaze-estate.onrender.com/)
+- [Wallet First](https://wallet-first.onrender.com)
 <!-- [Blog site](https://blog-app-ipou.onrender.com/)
  [Resume Builder App](https://resume-builder-u0ip.onrender.com)-->
 ___
