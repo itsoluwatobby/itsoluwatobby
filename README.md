@@ -8,7 +8,7 @@ Learning:
 
 - Currently learning GoLang - vying to get into system programming.
 
-- Taking of API Security Ceritification Courses from [APISEC](https://www.apisecuniversity.com/)
+- Taking of API Security Certification Courses from [APISEC](https://www.apisecuniversity.com/)
 
 <!--
 Summary of responsibilities:
