@@ -4,6 +4,11 @@
 
 I have a strong foundation in backend (Node.js, MongoDB, PostgreSQL) and frontend (React, Next.js) technologies. Experienced in full-stack development, DevOps practices (AWS, GCP, CI/CD, Azure), and API integration. Skilled in JavaScript, TypeScript, and Python. Committed to delivering high-quality solutions and working collaboratively in diverse teams.
 ____
+Learning:
+
+- Currently learning GoLang - vying to get into system programming.
+
+- Taking of API Security Ceritification Courses from [APISEC](https://www.apisecuniversity.com/)
 
 <!--
 Summary of responsibilities:
@@ -39,15 +44,23 @@ maintenance and security of the application server.
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsoluwatobby&theme=dark&background=363636)](https://github.com/anuraghazra/github-readme-stats)-->
 ___
 ## Links to some of my completed projects.
-- [lovely-audios.com](https://lovely-audio.onrender.com/)
-- [Revolving.com](https://revolving.vercel.app/)
+- [financial-dashboard](https://coreinfra-oluwatobi.onrender.com/)
+- [node-server-script](https://github.com/itsoluwatobby/node_script)
+- [wandyte-book-sales.com](https://wandyte-book-sales.onrender.com/)
+- [Blaze Estate](https://blaze-estate.onrender.com/)
 - [GetLinked.com](https://getlinked-contest-oluwatobi.vercel.app/)
+- [Revolving.com](https://revolving.vercel.app/)
+- [lovely-audios.com](https://lovely-audio.onrender.com/)
+- [Wallet First](https://wallet-first.onrender.com)
 - [Whatsapp Desktop Clone](https://whatsapp-desktop-clone.onrender.com)
 - [Contact directory](https://contact-directory-green.vercel.app/)
-- [Blaze Estate](https://blaze-estate.onrender.com/)
-- [Wallet First](https://wallet-first.onrender.com)
 <!-- [Blog site](https://blog-app-ipou.onrender.com/)
  [Resume Builder App](https://resume-builder-u0ip.onrender.com)-->
+
+---
+## CERTIFICATIONS
+- API SECURITY FUNDAMENTALS [Certificate](https://www.credly.com/badges/5e6d34c9-9ebe-4ae9-a644-08a05d099cff)
+
 ___
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsoluwatobby&theme=dark&background=000000)
