@@ -6,7 +6,7 @@ I have a strong foundation in backend (Node.js, MongoDB, PostgreSQL) and fronten
 ____
 Learning:
 
-- Currently learning GoLang - vying to get into system programming.
+- Currently learning Rust - vying to get into system programming.
 
 - Taking API Security Certification Courses from [APISEC](https://www.apisecuniversity.com/)
 
