@@ -1,6 +1,6 @@
 # Hello World :wave:
 
-<a href="https://gitroll.io/profile/u7PjiY0mmWcdZKujBPYEumT5EoNQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7PjiY0mmWcdZKujBPYEumT5EoNQ2" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/u7PjiY0mmWcdZKujBPYEumT5EoNQ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7PjiY0mmWcdZKujBPYEumT5EoNQ2?theme=midnight" alt="GitRoll Profile Badge"/></a>
 
 I have a strong foundation in backend (Node.js, MongoDB, PostgreSQL) and frontend (React, Next.js) technologies. Experienced in full-stack development, DevOps practices (AWS, GCP, CI/CD, Azure), and API integration. Skilled in JavaScript, TypeScript, and Python. Committed to delivering high-quality solutions and working collaboratively in diverse teams.
 ____
